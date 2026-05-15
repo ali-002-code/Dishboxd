@@ -1,6 +1,6 @@
 # Dishboxd – AI-Powered Social Food Rating App
 
-Live on the App Store: [Download Dishboxd](your-app-store-link)
+Live on the App Store: [Download Dishboxd](https://apps.apple.com/gb/app/dishboxd/id6760411836)
 
 ## Overview
 A full-stack iOS social app where users rate individual dishes rather than restaurants. Built from scratch and shipped to the App Store, featuring a computer vision AI pipeline, real-time social features, and a serverless backend architecture.
